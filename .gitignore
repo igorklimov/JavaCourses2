@@ -1,4 +1,4 @@
-*/test
-*/.idea
-*/classes
-*pom.xml
+bin/
+build/
+.idea/
+out/
