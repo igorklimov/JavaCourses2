@@ -1,6 +1,6 @@
-bin/
-build/
+#java specific
+*.class
+
+#IDEA ignore personal project settings
 .idea/
-out/
-classes/
-*pom.xml
+*.iml
